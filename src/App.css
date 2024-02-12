@@ -16,7 +16,7 @@ header{
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 30px 10%;
+  padding: 30px 1%;
 }
 
 .logo{
@@ -59,4 +59,7 @@ button{
 h1{
   text-align: center;
   padding: 32px;
+}
+footer{
+  text-align: center;
 }
